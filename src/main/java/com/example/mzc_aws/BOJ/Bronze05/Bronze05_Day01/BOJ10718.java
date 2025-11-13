@@ -1,5 +1,5 @@
 // 10718. We love kriii
-package com.example.mzc_aws.BOJ.Bronze05_Day01;
+package com.example.mzc_aws.BOJ.Bronze05.Bronze05_Day01;
 
 public class BOJ10718 {
     public static void main(String[] args){

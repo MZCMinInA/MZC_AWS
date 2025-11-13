@@ -1,5 +1,5 @@
 // 1008. A/B
-package com.example.mzc_aws.BOJ.Bronze05_Day02;
+package com.example.mzc_aws.BOJ.Bronze05.Bronze05_Day02;
 
 import java.util.Scanner;
 

@@ -1,0 +1,13 @@
+// 10172. 개
+package com.example.mzc_aws.BOJ.Bronze05.Bronze05_Day04;
+
+public class BOJ10172 {
+    public static void main(String[] args){
+        System.out.println("|\\_/|");
+        System.out.println("|q p|   /}");
+        System.out.println("( 0 )\"\"\"\\");
+        System.out.println("|\"^\"`    |");
+        System.out.println("||_/=\\\\__|");
+
+    }
+}

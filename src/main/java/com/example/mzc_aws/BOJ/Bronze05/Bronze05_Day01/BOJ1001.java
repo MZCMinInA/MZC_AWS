@@ -1,9 +1,9 @@
-// 1000. A+B
-package com.example.mzc_aws.BOJ.Bronze05_Day01;
+// 1001. A-B
+package com.example.mzc_aws.BOJ.Bronze05.Bronze05_Day01;
 
 import java.util.*;
 
-public class BOJ1000 {
+public class BOJ1001 {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
@@ -11,6 +11,6 @@ public class BOJ1000 {
         int A = scan.nextInt();
         int B = scan.nextInt();
 
-        System.out.print(A+B);
+        System.out.print(A-B);
     }
 }
